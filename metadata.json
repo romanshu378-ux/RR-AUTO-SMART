@@ -1,0 +1,8 @@
+
+{
+  "name": "RR AUTO SMART",
+  "description": "Professional website for RR AUTO SMART - IoT, Smart Home Automation, and Industrial Automation services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
